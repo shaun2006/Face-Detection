@@ -28,7 +28,8 @@ Make sure you have Python installed on your system. You will need to install Ope
 1. The script loads the image (`test1.jpg` by default) and applies the face detection using OpenCV’s Haar Cascade Classifier.
 2. Detected faces are highlighted with rectangles, and the output image is displayed.
 
-## Result:- 
+
+## Result
 ![Test Results on a Smaple Image](https://github.com/shaun2006/Face-Detection/blob/main/sample.png)
 
 ## License
